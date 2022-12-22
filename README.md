@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @poloniumcube
-- 👀 I’m trying to move from a people-oriented career to a more analytics-related
-- 🌱 I’m currently learning SQL, Python (had experience with Java, HTML, C++ before)
-- 💞️ I’m looking to collaborate on simple projects to build up some knowledge by practice
-
-<!---
-poloniumcube/poloniumcube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m Yana, currently trying to break into a data analytics field from a business major background
+- The process includes practicing advanced SQL, learning Python (Pandas), working with Tableu, Looker, etc.
+- I’m open to collaborate on simple projects and would be excited to strengthen my skillset with practice
