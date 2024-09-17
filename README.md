@@ -1,3 +1,1 @@
-- I’m Yana, currently trying to break into a data analytics field from a business major background
-- The process includes practicing advanced SQL, learning Python (Pandas), working with Tableu, Looker, etc.
-- I’m open to collaborate on simple projects and would be excited to strengthen my skillset with practice
+
